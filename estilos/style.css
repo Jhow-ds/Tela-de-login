@@ -44,7 +44,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: url(./img/predio.jpg) no-repeat;
+    background: url(../img/predio.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
